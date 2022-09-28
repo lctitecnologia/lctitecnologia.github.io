@@ -53,7 +53,7 @@
     "gdpr": false,
     "uniqCompNum": 1,
     "versionPublish": "5.6.11",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
